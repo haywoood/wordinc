@@ -1,0 +1,22 @@
+{
+  "name": "wordinc",
+  "version": "1.0.0",
+  "description": "Increments a word like it was a number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lsdafjklsd/wordinc.git"
+  },
+  "author": "Ryan Haywood <ryan@redowlanalytics.com> (http://www.redowlanalytics.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lsdafjklsd/wordinc/issues"
+  },
+  "homepage": "https://github.com/lsdafjklsd/wordinc",
+  "dependencies": {
+    "coffee-script": "^1.9.2"
+  }
+}
